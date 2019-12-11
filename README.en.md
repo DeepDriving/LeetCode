@@ -1,23 +1,6 @@
-# LeetCode
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=azl397985856.leetcode)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=azl397985856.leetcode)
-> since 2019-09-03 19:40
 
-[简体中文](./README.md) | English
 
----
-
-![leetcode.jpeg](./assets/leetcode.jpeg)
-
-This essay records the course of and my emotion to this project from initialisation to 10,000 stars.
-[Milestone for 10,000+ stars](./thanksGiving.md)
-
-If you are interested in this project, do not mean your star. This project will be supported for a long enough time by the comminity. Thanks for every audience and contributor.
-
-## Introduction
-
-![leetcode.jpeg](./assets/leetcode.jpeg)
 
 LeetCode Solutions: A Journey of Problem Solving.
 
@@ -35,13 +18,7 @@ This repository is divided into five parts for now:
 
 > Only when having mastered the basic data structures and algorithms can you solve complex problems easily.
 
-## About me
 
-I, a programmer, am all passionate about technology.
-
-Used to write `.net` and `Java`, I am a frontend engineer and focused on the engineering, optimization and standardlization for frontend.
-
-If you want to do some contributions or collaborations, just feel free to contact me via [azl397985856@gmail.com].
 
 ## Usage Instructions
 
@@ -287,35 +264,7 @@ Latest updated flashcards (only lists the front page):
 
 
 
-## Community Chat Groups
 
-We're still on the early stage, so feedback from community is very welcome. For sake of reducing the costs of communication, I created some chat groups.
-
-### Telegram
-
-[http://t.me/leetcode_intl](http://t.me/leetcode_intl)
-
-### QQ (For China Region)
-
-![qq-group-chat](./assets/qq-group-chat.png)
-
-### WeChat (For China Region)
-
-![wechat-group-chat](./assets/wechat-group-chat.jpeg)
-
-(Add this bot and reply "leetcode" to join the group.)
-
-
-
-## Contribution
-
-- If you have any ideas, [Issues](https://github.com/azl397985856/leetcode/issues) or chat in groups.
-- If you want to commit to the repository, Pull Request is welcome.
-- If you want to edit images resources in this project, [here](./assets/drawio/) lists the files that can be edited on [draw.io](https://www.draw.io/).
-
-## Thank you
-
-A big Thank you to every [contributor](https://github.com/azl397985856/leetcode/graphs/contributors) of this project.
 
 ## License
 
