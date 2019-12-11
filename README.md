@@ -297,42 +297,6 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki集合”，然后�
 
 - [字符串类问题汇总](./todo/str/)
 
-## 关注我
-
-最近我重新整理了下自己的公众号，并且我还给他换了一个名字`脑洞前端`，它是一个帮助你打开大前端新世界大门的钥匙🔑，在这里你可以听到新奇的观点，看到一些技术尝新，还会收到系统性总结和思考。
-
-由于微信`一个自然人只能有一个订阅号`的限制, 现在我也会放一些leetcode题解在这个号上面，
-后期考虑出一个leetcode模块或者想办法开另外一个公众号。
-
-在这里我会尽量通过图的形式来阐述一些概念和逻辑，帮助大家快速理解，图解是我的目标。
-
-之后我的文章同步到微信公众号 `脑洞前端` ，您可以关注获取最新的文章，或者和我进行交流。
-
-另外你可以回复leetcode拉你进微信群，如果想加入qq群，请回复qq。
-
-
-<img width="300" src="./assets/gongzhonghao.jpeg">
-
-## 捐赠
-
-[点击查看完整的捐赠列表](./donation.md)
-
-### 微信
-<img width="300" src="./assets/donate-weixin.jpg">
-
-### 支付宝
-<img width="300" src="./assets/donate-zfb.jpg">
-
-
-## 贡献
-
-- 如果有想法和创意，请提[issue](https://github.com/azl397985856/leetcode/issues)或者进群提
-- 如果想贡献代码，请提[PR](https://github.com/azl397985856/leetcode/pulls)
-- 如果需要修改项目中图片，[这里](./assets/drawio/)存放了项目中绘制图的源代码， 大家可以用[draw.io](https://www.draw.io/)打开进行编辑。
-
-## 鸣谢
-
-感谢为这个项目作出贡献的所有[小伙伴](https://github.com/azl397985856/leetcode/graphs/contributors)
 
 ## License
 
